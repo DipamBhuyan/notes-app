@@ -1,0 +1,20 @@
+body {
+    background-image: url('bg.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+    color: azure;
+    margin: 0;
+    padding: 0;
+}
+body.navbar{
+    background-color: azure;
+    color: #001220;
+}
+body footer{
+    background-color: #001220;
+}
+.hidden{
+    display: none;
+}
